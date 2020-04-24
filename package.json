@@ -1,0 +1,26 @@
+{
+  "name": "@traist-web-services/error-thrower",
+  "version": "1.0.0",
+  "description": "A module which throws errors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/traist-web-services/error-thrower.git"
+  },
+  "keywords": [
+    "Apostrophe",
+    "CMS"
+  ],
+  "author": "Joe Innes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/traist-web-services/error-thrower/issues"
+  },
+  "homepage": "https://github.com/traist-web-services/error-thrower#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
+}
